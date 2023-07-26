@@ -1,0 +1,23 @@
+{
+  "name": "fun-morning-katas",
+  "version": "1.0.0",
+  "description": "## Running Order",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stebucko360/fun-morning-katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stebucko360/fun-morning-katas/issues"
+  },
+  "homepage": "https://github.com/stebucko360/fun-morning-katas#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
